@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @singhaikshitijjain
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning AI-ML
 - 💞️ I’m looking to collaborate on WebD
 - 📫 How to reach me Instagram on profile
 - 😄 Pronouns: He/Him
